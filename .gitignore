@@ -1,0 +1,45 @@
+# System
+.DS_Store
+
+# IDE or eidtor
+.idea/
+.code/
+*.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sublime-project  
+*.sublime-workspace 
+.project 
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# cache
+.eslintcache
+/.sass-cache
+*.css.map
+*.js.map
+
+# front base
+dist/*
+!dist/static
+.history
+node_modules
+.npm
+/.pnp
+.pnp.js
+
+# current project
+src/**/dist/
