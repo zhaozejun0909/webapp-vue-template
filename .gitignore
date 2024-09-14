@@ -53,3 +53,11 @@ coverage
 
 # current project
 src/**/dist/
+
+# 忽略代码风格配置文件，以便于每个人都有自己的配置
+.prettierrc.js
+.prettierignore
+dprint.json
+dprint.jsonc
+.dprint.json
+.dprint.jsonc
