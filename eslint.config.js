@@ -10,6 +10,11 @@ export default antfu({
     rules: {
         'eslint-comments/no-unlimited-disable': 'off',
     },
+    vue: {
+        overrides: {
+            'vue/html-indent': ['error', 4, { baseIndent: 0 }],
+        },
+    },
     formatters: {
         // CSS, LESS, SCSS , also the `<style>` blocks in Vue
         css: true,
