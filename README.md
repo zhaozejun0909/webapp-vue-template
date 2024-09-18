@@ -4,7 +4,7 @@ Vue 3 in Vite.
 
 ## 框架
 
-Node v20.17.0 + pnpm + Vite 5 + Vue3 + TypeScript5 
+Node v20.17.0 + pnpm + Vite 5 + Vue3 + TypeScript5
 
 ## 命令
 
@@ -34,7 +34,7 @@ pnpm lint
 - ESLint 使用原则：主要用来检查 JS TS VUE 等的语法规范，代码的风格格式不做强制统一规范
 - ESLint 相关：
     - 使用开源方案：[@antfu/eslint-config](https://github.com/antfu/eslint-config)
-    - vscode 需要设置 "eslint.experimental.useFlatConfig": true 
+    - vscode 需要设置 "eslint.experimental.useFlatConfig": true
     - 建议根据文档忽略样式相关的报错和警告
     - 有任何规范上面的异议都可以提出来讨论并修改规则
 - 代码风格
@@ -56,4 +56,3 @@ pnpm lint
 - 需求分支从 master 新建，需求上线以后删除
 - 需求分支反向合并 master，能用 rebase 就不要用 merge
 - 解决冲突，需要通知冲突相关的开发人员一起解决，推荐手动解决冲突
-
