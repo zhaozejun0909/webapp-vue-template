@@ -9,6 +9,7 @@ export default antfu({
     },
     rules: {
         'eslint-comments/no-unlimited-disable': 'off',
+        'n/prefer-global/process': ['error', 'always'],
     },
     vue: {
         overrides: {

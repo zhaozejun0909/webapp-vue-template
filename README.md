@@ -57,7 +57,7 @@ pnpm lint
 - 需求分支反向合并 master，能用 rebase 就不要用 merge
 - 解决冲突，需要通知冲突相关的开发人员一起解决，推荐手动解决冲突
 
-## VSCode 
+## VSCode
 
 推荐插件：
     - [Vue-Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
