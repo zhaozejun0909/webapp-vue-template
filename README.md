@@ -1,6 +1,6 @@
 # webapp-vue-template
 
-Vue 3 in Vite.
+Vue 3 SSR in Vite.
 
 ## 框架
 
@@ -10,10 +10,10 @@ Node v20.17.0 + pnpm + Vite 5 + Vue 3 + TypeScript 5
 
 ```sh
 # 常规命令
-pnpm install
-pnpm dev
-pnpm build
-pnpm lint
+pnpm run install
+pnpm run dev
+pnpm run build
+pnpm run lint
 ```
 
 ## 规范
