@@ -1,6 +1,6 @@
 # webapp-vue-template
 
-Vue 3 SSR in Vite.
+Vue 3 in Vite.
 
 ## 框架
 
